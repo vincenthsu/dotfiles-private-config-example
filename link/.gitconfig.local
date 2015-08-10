@@ -1,0 +1,5 @@
+[user]
+	name = <YOUR NAME>
+	email = <YOUR EMAIL>
+[diff]
+	tool = meld

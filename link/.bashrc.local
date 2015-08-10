@@ -1,0 +1,13 @@
+# for mac
+if [ -f /usr/local/bin/brew ]; then
+    export HOMEBREW_GITHUB_API_TOKEN=<YOUR TOKEN>
+fi
+
+# z.sh
+export _Z_OWNER='<YOUR NAME>'
+
+# alias
+alias rm='trash'
+
+# extend path variable
+export PATH=$HOME/bin:$PATH
